@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Glua-Dev
+- 👀 I’m interested in game development
+- 🌱 I’m currently learning to develop Gmod servers (Glua)
